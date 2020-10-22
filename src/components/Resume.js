@@ -236,7 +236,7 @@ click=()=>{
                                 <tbody>
                                     <tr>
                                         <td><SubHeading text="Organisation"/></td>
-                                        <td><AniText text="Oglacs Softwere Solutions"/></td>
+                                        <td><AniText text="oglacs software pvt. ltd"/></td>
                                     </tr>
                                     <tr>
                                         <td><SubHeading text="Title"/></td>
